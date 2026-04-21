@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello there 🫡
 
-<!--
-**Atrahasis-code/Atrahasis-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Athrahasis, yeah like that priest from the same akkadian epic name but I'm not that wise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Anyways, I'm a full-stack developer based in Bolivia. I like to create any app that pops up in my mind but mostly being private for my own amusement.
+
+My main stack is astro, typescript, supabase, tailwind and other ones (laravel, angular). I like to use my laptop as my main terminal for everything, except for reading... that is the job of my Kindle.
+
+I will start to make public repos to show what normally pops up in my head, it can be messy but it's the inspiration I can get on a normal day.
+
+## 👾Fun facts, kinda...
+
+- 🎵 I like the harmonica and piano... Beautiful relaxing sounds
+- 🤖 I'm on the path to create a buddy so it can run tests with me
+- 🐈‍⬛ I like black cats more than others
+- 🚚 I usually get 1-2 things from Japan every year
