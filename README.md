@@ -15,3 +15,4 @@ I will start to make public repos to show what normally pops up in my head, it c
 - 🤖 I'm on the path to create a buddy so it can run tests with me
 - 🐈‍⬛ I like black cats more than others
 - 🚚 I usually get 1-2 things from Japan every year
+- Forgot to mention that I like videogames more than anything... Except listening to relaxing harmonica and piano sounds
